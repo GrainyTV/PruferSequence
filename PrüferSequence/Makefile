@@ -1,4 +1,4 @@
-# OBJS specifies which files to compile as part of the project
+# OBJ_SOURCE specifies which files to compile as part of the project
 OBJ_SOURCE = pruferSequence.cpp
 
 # OBJ_NAME specifies the name of our exectuable
