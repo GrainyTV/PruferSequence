@@ -27,5 +27,5 @@ Edges in tree:
 5.) 61  
 6.) 02
 ```
-In this example we generated a graph with 7 nodes. In the first paragraph, you can see the where the new nodes have been connected to the graph. Then you can see all the chosen edges in the second one. This is what it would look like drawn on a chalk board:   
+In this example, we generated a graph with 7 nodes. In the first paragraph, you can see the where the new nodes have been connected to the graph. Then you can see all the chosen edges in the second one. This is what it would look like drawn on a chalk board:   
 <img src="/PrüferSequence/graph.png" alt="TreeGraphImage" width="420" height="420">
