@@ -3,7 +3,7 @@
 
 The prüfer sequence is basically an easy way to generate a tree graph with any number of nodes, without unintentionally including a circle through the edges. If you are interested in this topic more, you can check out its [Wikipedia](https://en.wikipedia.org/wiki/Pr%C3%BCfer_sequence) page. The application generates a randomized tree graph from 2-8 nodes based on this algorithm.
 
-Originally this was a small sideproject for my combinatorics and graph theory class, that focused on the concept rather than the implementation, so the code is not the most readable and useful part of this project.
+Originally this was made for my combinatorics and graph theory class, that focused on the concept rather than the implementation, so the code is not the most readable and useful part of this project.
 
 Here is an example output of the program:
 ```
