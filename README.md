@@ -1,11 +1,12 @@
 
 # Prüfer Sequence
 
-<p align="justify">The prüfer sequence is basically an easy way to generate a tree graph with any number of nodes, without unintentionally including a circle through the edges. If you are interested in this topic more, you can check out its <a href="https://en.wikipedia.org/wiki/Pr%C3%BCfer_sequence">Wikipedia]</a> page. The application generates a randomized tree graph from 2-8 nodes based on this algorithm.</p>
+<p align="justify">The prüfer sequence is basically an easy way to generate a tree graph with any number of nodes, without unintentionally including a circle through the edges. If you are interested in this topic more, you can check out its <a href="https://en.wikipedia.org/wiki/Pr%C3%BCfer_sequence">Wikipedia</a> page. The application generates a randomized tree graph from 2-8 nodes based on this algorithm.</p>
 
 <p align="justify">Originally this was made for my combinatorics and graph theory class, that focused on the concept rather than the implementation, so the code is not the most readable and useful part of this project.</p>
 
 <p align="justify">Here is an example output of the program:</p>
+
 ```
 Number of indices:
 7
